@@ -1,0 +1,9 @@
+[user]
+  name = bigint
+  email = 69431456+bigint@users.noreply.github.com
+[github]
+  user = bigint
+[alias]
+  a = add -A
+  ci = commit
+  co = checkout
